@@ -1,0 +1,2 @@
+# practica
+Primer proyecto.
